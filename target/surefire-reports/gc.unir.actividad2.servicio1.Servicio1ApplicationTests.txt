@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: gc.unir.actividad2.servicio1.Servicio1ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.582 s -- in gc.unir.actividad2.servicio1.Servicio1ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.079 s -- in gc.unir.actividad2.servicio1.Servicio1ApplicationTests
